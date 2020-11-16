@@ -352,7 +352,6 @@ select.area_selection{display:inline-block}
     text-align: center;
     padding-top: 10px;
 }
-
 .home_banner_header {
     width: 960px;
     height: 76px;
@@ -503,6 +502,8 @@ select.area_selection{display:inline-block}
     border-radius: 2px !important;
     font-size: 14px;
     width: 12%;
+    border-color: none !important;
+    box-shadow: none !important;
 }
 
 @media only screen and (max-width: 900px) {
@@ -511,8 +512,8 @@ select.area_selection{display:inline-block}
     }
     #firm-header{
         padding: 50px;
-        padding-left: 0px;
-        padding-right: 0px;
+        padding-left: 30px;
+        padding-right: 30px;
     }
     .practice-header p, .practice-header ul, input.form-control {
         width: 100%;
@@ -540,5 +541,11 @@ select.area_selection{display:inline-block}
     }
     #home_banner > div > div > div > h2 {
         font-size: 22px;
+    }
+    #lawyer-section img { 
+        float: none !important;
+    }
+    #root > section.form-section > div > div > div > form > button { 
+        width: 30%;
     }
   }

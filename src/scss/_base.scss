@@ -1,0 +1,544 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@100;300;400&display=swap');
+body {
+    background-color: #f8f9ff;
+    margin: 0;
+    line-height: 1.5;
+}
+.lawyer-divider{
+    margin-top: 50px;
+    margin-bottom: 50px; 
+}
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+a:link {
+    text-decoration: none;
+}
+
+footer {
+    background-color: #333333;
+    width: 100%;
+    // height: 50px;
+    padding: 5px;
+}
+
+footer p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.5px;
+    color: #ffffff;
+    padding-top: 18px;
+    padding-left: 50px;
+
+}
+#firm-header{
+    padding: 50px;
+}
+
+#contact_us > div > div > div:nth-child(1) > div:nth-child(1) > p:nth-child(3) > span.next-line {
+    display: block;
+    padding-left: 20px;
+}
+
+#firm-header{
+   background-color: #334786;
+   color: #ffffff;
+   padding-left: 200px;
+   padding-right: 200px;
+}
+#firm_f {
+    padding-bottom: 10px;
+}
+#firm_focus, #firm_aff p {
+    font-size: 16px;
+  font-weight: 300;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 0.50px;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#lawyer-section {
+    background-color: #f8f9ff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.section_header {
+    font-size: 24px;
+    margin: 0 305px 20px 0;
+}
+#office_photo {
+    width: 470px;
+    height: 306px;
+}
+.lawyer-divider {
+    background-color: #d8d8d8;
+    height: 1px;
+}
+#lawyer-section img {
+    width: 300px;
+}
+.lawyer-bold {
+    font-weight: 700;
+}
+
+#owner {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 12px;
+    font-weight: bolder;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.83px;
+    color: #333333;
+    margin-bottom: 0px;
+}
+#testimonials {
+    background-color: #334786;
+}
+.carousel-indicators li {
+    color: #ffffff; //this can be whatever color you want
+}
+#testimonials > div > div > a.carousel-control-next > span.carousel-control-next-icon {
+    color: #cc2323 !important;
+}
+.carousel-control-next, .carousel-control-prev {
+    font-size: 40px;
+}
+.testimonial__carousel_main {
+    width:100%;
+    padding: 40px;
+}
+.testimonial-item {
+    width: 50%;
+    text-align: center;
+    line-height: 1.5;
+}
+.testimonial-quote {
+    color: #ffffffce;
+    font-style: italic;
+}
+.testimonial-author {
+    font-weight: 700;
+    color: #fffffff3;
+}
+#contact_us{
+    background-color: #5f6579;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #ffffff;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+
+}
+#contact_us h6 {
+    font-size: 18px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.75px;
+}
+#contact_us p {
+    font-size: 18px;
+    font-weight: 100;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.75px;
+    color: #ffffffed;
+}
+.contact_hours {
+    font-weight: 900;
+}
+.appointment {
+    font-size: 12px !important;
+    color: #ffffffe0;
+}
+#contact_us > div > div > div:nth-child(1) > div:nth-child(1) { 
+    margin-bottom: 40px;
+}
+
+#contact_us span {
+    padding-right: 5px;
+}
+.carousel-indicators {
+   bottom:-25px!important;
+}
+.carousel-indicators .active {
+    background-color:#f6ae2d !important;
+ }
+.navbar {
+    height: 50px;
+}
+#navbar-container {
+    background-color: #f8f9ff;
+}
+
+.navbar-nav .nav-link {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.58px;
+    color: #334786 !important;
+}
+#owner-title {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 10px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.41px;
+    color: #666666;
+}
+.practice-header {
+    background-color: #334786;
+    color: #ffffff;
+    padding:40px;
+    padding-bottom: 20px;
+    padding-left: 15%;
+}
+.practice-header div {
+    width: 100%;
+}
+.practice-header h6, .practice-header h4 {
+    font-weight: 700;
+ }
+ .practice-header h4 {
+     padding-bottom: 20px;
+ }
+ .practice-quote {
+     font-style: italic !important;
+     padding-bottom: 10px;
+ }
+.practice-header p, .practice-header ul {
+    font-size: 16px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: 0.76px;
+    width: 80%;
+    color:#f8f9ffd5;
+}
+.form-section {
+    background-color: #f8f9ff;
+    padding:40px;
+    padding-bottom: 100px;
+    padding-left: 15%;
+    
+}
+.form-section h4 {
+    font-weight: 700;
+    font-size: 26px;
+    padding-bottom: 20px;
+    line-height: normal;
+    letter-spacing: 0.99px;
+    color: #333333;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.form-section p { 
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.57;
+    letter-spacing: 0.58px;
+    color: #333333;
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 85%;
+}
+.form-section p.second-heading {
+    font-size: 16px;
+    line-height: 1.38;
+    letter-spacing: 0.66px;
+    color: #333333;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.form-section label {
+    font-size: 14px;
+    font-weight: 700;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.58px;
+    color: #333333;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.nav-link {
+    margin-right: 18px;
+}
+.dropdown-item {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.58px;
+    color: #334786 !important;
+}
+#basic-navbar-nav > div > div > div {
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+#basic-navbar-nav > div > div > div > a:hover {
+    background-color: #fdecce;
+}
+/************************* HOMEPAGE ********************************/
+#home_banner {
+    background-color: rgba(0, 20, 78, 0.849);
+    background:linear-gradient(360deg, #153580dc, #354b80e1, #24448db6, #0d3288ce), url("../assets/Hero.png");
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#home_banner h2 {
+    text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.274);
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 45px;
+    font-weight: 400;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 3px;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 0.5em;
+}
+
+#areas-of-practice-select-label {
+    color: #fffffff6;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    padding-right: 0.5em;
+    letter-spacing: 1.5px;
+}
+.lawyer-heading{
+    margin-bottom: 30px;
+    padding: 0px;
+    line-height: 0.5;
+}
+select.area_selection{display:inline-block}
+
+.I-would-like-help-wi {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.83px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.home_banner_header {
+    width: 960px;
+    height: 76px;
+    margin:0 auto;
+    padding: 100px;
+}
+#our_firm {
+    background-color: #f8f9ff;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#contact_us {
+    padding-left: 80px;
+}
+#contact-us-info {
+    padding-left: 20px;
+}
+
+#our_firm p {
+    letter-spacing: 0.66px;
+    line-height: 24px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    padding-top: 15px;
+}
+
+.banner_links {
+    width: 140px;
+    height: 60px;
+    border-radius: 4px;
+    border: solid 1px #ffffff;
+}
+#business-formations {
+    white-space: pre-line;
+}
+
+.banner_link_container {
+    white-space:nowrap;
+    text-align: center;
+}
+.banner_link_container li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.banner_links a{
+    line-height: 3.5;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    width: 100ch;
+    word-break: break-all;
+    text-decoration: none;
+}
+.banner_links {
+    padding: 10px;
+}
+
+.our_firm {
+    background-color: #f8f9ff;
+}
+
+.our_firm_content {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.66px;
+  color: #333333;
+}
+.firm {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.83px;
+    color: #333333;
+    margin-top: 40px;
+   
+}
+.firm, .firm_content p {
+   padding-bottom: 20px;
+}
+
+.firm_content {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.66px;
+    color: #333333;
+}
+
+.contact_us {
+    background-color: #5f6579;
+}
+.contact_us_header {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.75px;
+    color: #ffffff;
+}
+
+.contact_us_content {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.66px;
+    color: #ffffff;
+}
+
+/**************************************************************/
+#logo-img {
+    width: 20px;
+}
+.logo-thing {
+    float:left;
+}
+.logo-thing p { 
+    padding-left: 10px;
+}
+#logo-container {
+    padding: 30px;
+    margin-top: 10px;
+}
+.active {
+    border-bottom: 1px solid #334786;
+}
+
+#root > section.form-section > div > div > div > form > div:nth-child(9) > div > div > textarea {
+    height: 100px;
+}
+#root > section.form-section > div > div > div > form > button {
+    background-color:#334786 !important;
+    border-radius: 2px !important;
+    font-size: 14px;
+    width: 12%;
+}
+
+@media only screen and (max-width: 900px) {
+    .navbar {
+      height: auto;
+    }
+    #firm-header{
+        padding: 50px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .practice-header p, .practice-header ul, input.form-control {
+        width: 100%;
+    }
+    .form-section, .practice-header {
+        padding:20px;
+        padding-bottom: 50px;
+        padding-left: 2%;
+    }
+    #logo-img {
+        width: 20px;
+    }
+    .logo-thing {
+        float:left;
+    }
+    .logo-thing p { 
+        padding-left: 5px;
+    }
+    #logo-container {
+        padding: 0px;
+        margin-top: 10px;
+    }
+    iframe {
+        width: 380px;
+    }
+    #home_banner > div > div > div > h2 {
+        font-size: 22px;
+    }
+  }

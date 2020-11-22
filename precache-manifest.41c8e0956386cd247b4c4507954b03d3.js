@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a443603a98cb7ddcf15b8509e72245f",
+    "revision": "43c32c734cc4c4262d503df0f724127d",
     "url": "/lllaw/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lllaw/static/css/2.437d98bc.chunk.css"
   },
   {
-    "revision": "89f40312db540f9e7cf7",
+    "revision": "bbe3a7049e3e716e6fd7",
     "url": "/lllaw/static/css/main.806c75d8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lllaw/static/js/2.9b06889a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "89f40312db540f9e7cf7",
-    "url": "/lllaw/static/js/main.bfa2cb9e.chunk.js"
+    "revision": "bbe3a7049e3e716e6fd7",
+    "url": "/lllaw/static/js/main.87cd2c80.chunk.js"
   },
   {
     "revision": "2b45e4081e9fce2c3abe",

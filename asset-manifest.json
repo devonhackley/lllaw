@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/lllaw/static/css/main.806c75d8.chunk.css",
-    "main.js": "/lllaw/static/js/main.968b516f.chunk.js",
-    "main.js.map": "/lllaw/static/js/main.968b516f.chunk.js.map",
-    "runtime-main.js": "/lllaw/static/js/runtime-main.ab511e18.js",
-    "runtime-main.js.map": "/lllaw/static/js/runtime-main.ab511e18.js.map",
-    "static/css/2.437d98bc.chunk.css": "/lllaw/static/css/2.437d98bc.chunk.css",
-    "static/js/2.09073650.chunk.js": "/lllaw/static/js/2.09073650.chunk.js",
-    "static/js/2.09073650.chunk.js.map": "/lllaw/static/js/2.09073650.chunk.js.map",
-    "index.html": "/lllaw/index.html",
-    "precache-manifest.7c2b0c6fc6a4798b6ca5c59ae310daf8.js": "/lllaw/precache-manifest.7c2b0c6fc6a4798b6ca5c59ae310daf8.js",
-    "service-worker.js": "/lllaw/service-worker.js",
-    "static/css/2.437d98bc.chunk.css.map": "/lllaw/static/css/2.437d98bc.chunk.css.map",
-    "static/css/main.806c75d8.chunk.css.map": "/lllaw/static/css/main.806c75d8.chunk.css.map",
-    "static/js/2.09073650.chunk.js.LICENSE.txt": "/lllaw/static/js/2.09073650.chunk.js.LICENSE.txt",
-    "static/media/core.scss": "/lllaw/static/media/Hero.c88f4c14.png",
-    "static/media/Office.png": "/lllaw/static/media/Office.f50257c2.png",
-    "static/media/lawyer-court.png": "/lllaw/static/media/lawyer-court.5713a8e2.png",
-    "static/media/lawyer-john.png": "/lllaw/static/media/lawyer-john.6f5a97a7.png"
+    "main.css": "/static/css/main.7d7309c0.chunk.css",
+    "main.js": "/static/js/main.9fe728fd.chunk.js",
+    "main.js.map": "/static/js/main.9fe728fd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7082cc07.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7082cc07.js.map",
+    "static/css/2.437d98bc.chunk.css": "/static/css/2.437d98bc.chunk.css",
+    "static/js/2.09073650.chunk.js": "/static/js/2.09073650.chunk.js",
+    "static/js/2.09073650.chunk.js.map": "/static/js/2.09073650.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f0fde3285fc66f0e33783326235b7369.js": "/precache-manifest.f0fde3285fc66f0e33783326235b7369.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.437d98bc.chunk.css.map": "/static/css/2.437d98bc.chunk.css.map",
+    "static/css/main.7d7309c0.chunk.css.map": "/static/css/main.7d7309c0.chunk.css.map",
+    "static/js/2.09073650.chunk.js.LICENSE.txt": "/static/js/2.09073650.chunk.js.LICENSE.txt",
+    "static/media/core.scss": "/static/media/Hero.c88f4c14.png",
+    "static/media/Office.png": "/static/media/Office.f50257c2.png",
+    "static/media/lawyer-court.png": "/static/media/lawyer-court.5713a8e2.png",
+    "static/media/lawyer-john.png": "/static/media/lawyer-john.6f5a97a7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab511e18.js",
+    "static/js/runtime-main.7082cc07.js",
     "static/css/2.437d98bc.chunk.css",
     "static/js/2.09073650.chunk.js",
-    "static/css/main.806c75d8.chunk.css",
-    "static/js/main.968b516f.chunk.js"
+    "static/css/main.7d7309c0.chunk.css",
+    "static/js/main.9fe728fd.chunk.js"
   ]
 }

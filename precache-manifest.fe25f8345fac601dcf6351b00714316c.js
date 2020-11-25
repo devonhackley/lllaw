@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81cb01475c64b36f38de6f9f1da10396",
+    "revision": "1527ad1ea81a48f65b15ffbd65ebe2d5",
     "url": "/lllaw/index.html"
   },
   {
-    "revision": "958c981d60abcca23e8d",
+    "revision": "45098cc9146d4e01e3ba",
     "url": "/lllaw/static/css/2.437d98bc.chunk.css"
   },
   {
-    "revision": "2da0132d3756a37c3b63",
-    "url": "/lllaw/static/css/main.f345ece0.chunk.css"
+    "revision": "5d0135c744b70215c4bc",
+    "url": "/lllaw/static/css/main.96dac326.chunk.css"
   },
   {
-    "revision": "958c981d60abcca23e8d",
-    "url": "/lllaw/static/js/2.3d20d435.chunk.js"
+    "revision": "45098cc9146d4e01e3ba",
+    "url": "/lllaw/static/js/2.cc69ef1a.chunk.js"
   },
   {
     "revision": "081c2a3de604ad6f929f3f2a4ee90691",
-    "url": "/lllaw/static/js/2.3d20d435.chunk.js.LICENSE.txt"
+    "url": "/lllaw/static/js/2.cc69ef1a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2da0132d3756a37c3b63",
-    "url": "/lllaw/static/js/main.aee9632b.chunk.js"
+    "revision": "5d0135c744b70215c4bc",
+    "url": "/lllaw/static/js/main.dcd2713c.chunk.js"
   },
   {
     "revision": "2b45e4081e9fce2c3abe",

@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/lllaw/static/css/main.acba93ba.chunk.css",
-    "main.js": "/lllaw/static/js/main.7061ed3c.chunk.js",
-    "main.js.map": "/lllaw/static/js/main.7061ed3c.chunk.js.map",
+    "main.css": "/lllaw/static/css/main.3095b40a.chunk.css",
+    "main.js": "/lllaw/static/js/main.7ca667e4.chunk.js",
+    "main.js.map": "/lllaw/static/js/main.7ca667e4.chunk.js.map",
     "runtime-main.js": "/lllaw/static/js/runtime-main.ab511e18.js",
     "runtime-main.js.map": "/lllaw/static/js/runtime-main.ab511e18.js.map",
     "static/css/2.437d98bc.chunk.css": "/lllaw/static/css/2.437d98bc.chunk.css",
-    "static/js/2.dd3da0bd.chunk.js": "/lllaw/static/js/2.dd3da0bd.chunk.js",
-    "static/js/2.dd3da0bd.chunk.js.map": "/lllaw/static/js/2.dd3da0bd.chunk.js.map",
+    "static/js/2.b383ffe1.chunk.js": "/lllaw/static/js/2.b383ffe1.chunk.js",
+    "static/js/2.b383ffe1.chunk.js.map": "/lllaw/static/js/2.b383ffe1.chunk.js.map",
     "index.html": "/lllaw/index.html",
-    "precache-manifest.d7aa35d21389564f973d26599f5b6a56.js": "/lllaw/precache-manifest.d7aa35d21389564f973d26599f5b6a56.js",
+    "precache-manifest.5c2326c427c95a369af59dbc8079e626.js": "/lllaw/precache-manifest.5c2326c427c95a369af59dbc8079e626.js",
     "service-worker.js": "/lllaw/service-worker.js",
     "static/css/2.437d98bc.chunk.css.map": "/lllaw/static/css/2.437d98bc.chunk.css.map",
-    "static/css/main.acba93ba.chunk.css.map": "/lllaw/static/css/main.acba93ba.chunk.css.map",
-    "static/js/2.dd3da0bd.chunk.js.LICENSE.txt": "/lllaw/static/js/2.dd3da0bd.chunk.js.LICENSE.txt",
+    "static/css/main.3095b40a.chunk.css.map": "/lllaw/static/css/main.3095b40a.chunk.css.map",
+    "static/js/2.b383ffe1.chunk.js.LICENSE.txt": "/lllaw/static/js/2.b383ffe1.chunk.js.LICENSE.txt",
     "static/media/core.scss": "/lllaw/static/media/Hero.c88f4c14.png",
+    "static/media/Ian.jpg": "/lllaw/static/media/Ian.3cdb4573.jpg",
+    "static/media/John.jpg": "/lllaw/static/media/John.e3fd8abf.jpg",
+    "static/media/Lindsay.jpg": "/lllaw/static/media/Lindsay.78feea7d.jpg",
+    "static/media/Logo.svg": "/lllaw/static/media/Logo.c235a7d5.svg",
     "static/media/Office.png": "/lllaw/static/media/Office.f50257c2.png",
-    "static/media/lawyer-court.png": "/lllaw/static/media/lawyer-court.5713a8e2.png",
-    "static/media/lawyer-john.png": "/lllaw/static/media/lawyer-john.6f5a97a7.png"
+    "static/media/lawyer-court.png": "/lllaw/static/media/lawyer-court.5713a8e2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ab511e18.js",
     "static/css/2.437d98bc.chunk.css",
-    "static/js/2.dd3da0bd.chunk.js",
-    "static/css/main.acba93ba.chunk.css",
-    "static/js/main.7061ed3c.chunk.js"
+    "static/js/2.b383ffe1.chunk.js",
+    "static/css/main.3095b40a.chunk.css",
+    "static/js/main.7ca667e4.chunk.js"
   ]
 }

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="194px" height="32px" viewBox="0 0 194 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo" transform="translate(1.000000, 1.000000)">
+            <g id="Logo-Copy" stroke="#334786" stroke-width="1.46341463">
+                <polyline id="Path" points="15.6280983 5.20954289e-15 5.48780488 5.20954289e-15 5.48780488 6.38956812"></polyline>
+                <polyline id="Path-2" points="5.48780488 9.51219512 5.48780488 29.9572292 15.6582625 29.9572292 15.6582625 20.8886381"></polyline>
+                <polyline id="Path-3" points="10.5531906 3.19478406 10.5531906 25.6034044 7.10542736e-15 25.6034044 7.06881362e-15 15.8895194"></polyline>
+            </g>
+            <g id="Group-5" transform="translate(26.000000, 1.000000)">
+                <text id="Llewellyn-and-Shafer" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" letter-spacing="0.825000018" fill="#333333">
+                    <tspan x="0" y="12">Llewellyn and Shafer, PLLC.</tspan>
+                </text>
+                <text id="Attorneys-and-Counse" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="10" font-weight="normal" letter-spacing="0.414285702" fill="#666666">
+                    <tspan x="10" y="25">Attorneys and Counselors at Law</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

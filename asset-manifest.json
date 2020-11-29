@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lllaw/static/css/main.880f647d.chunk.css",
+    "main.css": "/lllaw/static/css/main.bde785e6.chunk.css",
     "main.js": "/lllaw/static/js/main.196dea81.chunk.js",
     "main.js.map": "/lllaw/static/js/main.196dea81.chunk.js.map",
     "runtime-main.js": "/lllaw/static/js/runtime-main.ab511e18.js",
@@ -9,10 +9,10 @@
     "static/js/2.f67c4b85.chunk.js": "/lllaw/static/js/2.f67c4b85.chunk.js",
     "static/js/2.f67c4b85.chunk.js.map": "/lllaw/static/js/2.f67c4b85.chunk.js.map",
     "index.html": "/lllaw/index.html",
-    "precache-manifest.dd24ffd76cc67b9e60e4a8efc05e74e6.js": "/lllaw/precache-manifest.dd24ffd76cc67b9e60e4a8efc05e74e6.js",
+    "precache-manifest.ba19369a84f460eb6227a70bc668bd2d.js": "/lllaw/precache-manifest.ba19369a84f460eb6227a70bc668bd2d.js",
     "service-worker.js": "/lllaw/service-worker.js",
     "static/css/2.437d98bc.chunk.css.map": "/lllaw/static/css/2.437d98bc.chunk.css.map",
-    "static/css/main.880f647d.chunk.css.map": "/lllaw/static/css/main.880f647d.chunk.css.map",
+    "static/css/main.bde785e6.chunk.css.map": "/lllaw/static/css/main.bde785e6.chunk.css.map",
     "static/js/2.f67c4b85.chunk.js.LICENSE.txt": "/lllaw/static/js/2.f67c4b85.chunk.js.LICENSE.txt",
     "static/media/core.scss": "/lllaw/static/media/Hero.c88f4c14.png",
     "static/media/Ian.jpg": "/lllaw/static/media/Ian.3cdb4573.jpg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.ab511e18.js",
     "static/css/2.437d98bc.chunk.css",
     "static/js/2.f67c4b85.chunk.js",
-    "static/css/main.880f647d.chunk.css",
+    "static/css/main.bde785e6.chunk.css",
     "static/js/main.196dea81.chunk.js"
   ]
 }
